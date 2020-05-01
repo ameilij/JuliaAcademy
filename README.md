@@ -22,3 +22,9 @@ Loops, including while and for iterators.
 **Lesson_05**
 
 If, elseif, else conditional statements.
+
+**Lesson_06**
+Functions, including declaration, duck-typing, mutating vs. non-mutating, and broadcasting
+
+**Lesson_07**
+Packages.

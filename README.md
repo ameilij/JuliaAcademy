@@ -24,7 +24,13 @@ Loops, including while and for iterators.
 If, elseif, else conditional statements.
 
 **Lesson_06**
+
 Functions, including declaration, duck-typing, mutating vs. non-mutating, and broadcasting
 
 **Lesson_07**
+
 Packages.
+
+** Lesson_08**
+
+Plots with Julia. This chapter made me sad because everything in my machine was painfully slow. R graphics are ten times faster.

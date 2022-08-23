@@ -31,6 +31,6 @@ Functions, including declaration, duck-typing, mutating vs. non-mutating, and br
 
 Packages.
 
-** Lesson_08**
+**Lesson_08**
 
 Plots with Julia. This chapter made me sad because everything in my machine was painfully slow. R graphics are ten times faster.
